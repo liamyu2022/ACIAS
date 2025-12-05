@@ -1,1 +1,2 @@
-Amazon Customer Insights Analysis System (ACIAS)
+Amazon Category Intelligence Analysis System
+亚马逊类目智能分析系统
